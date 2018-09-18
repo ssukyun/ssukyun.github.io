@@ -6,16 +6,16 @@ permalink: /about/
 
 <!--- (<img align="center" src="https://github.com/gdmarmerola/gdmarmerola.github.io/blob/master/assets/img/gdmarmerola-profile.jpg" width="150"> -->
 
-![profile]({{ "assets/img/gdmarmerola-profile-50p.jpg" | absolute_url }})
- 
-Hi! My name is **Guilherme Duarte Marmerola**, and I'm a Data Scientist from Brazil. I'm passionate about machine learning, and the power it gives us to solve real problems in business and science. I graduated in Electrical Engineering from the University of Campinas and had the fortune of discovering ML in my early undergraduate years, totally by chance, during an internship at NICTA, in Syndey, Australia. Since then, I’ve literally fallen in love with the discipline, and built many successful advanced analytics initiatives in the media, mining, insurance, retail, consumer goods and banking industries.
+안녕하세요! 저는 대덕소프트웨어마이스터고등학교에 재학중인 **Y00N** 이라고 합니다. 저는 웨어러블과 같은 사람이 착용할 수 있는 기기를 만드는 것에 관심이 있으며 이것에 대해 공부중입니다. 
+
+저는 이러한 것들에 관심이 있습니다:
+    1. **Design:** 디자인을 전문적으로 공부한 것은 아니지만 여러 대회들을 참여함으로써 많은 내용들을 배우고 있습니다. 주로 사용자 경험인 UX를 설계하며 사용자에게 보여주는 UI 또한 만들어 가고 있습니다. 전문적은 아니지만 시각 효과, 사람의 심리에 중점을 두어 디자인을 공부하고 있습니다.
+    2. **Embedded:** 저는 임베디드소프트웨어개발과에 소속
+
+<!--
+Hi! My name is **Y00N** in South Korea. I'm student in Daeduck Software Meister Highschool. I'm interested in Embedded development like __wearable machine__.
 
 I hold a special interest about some specific topics:
+    1. **Design:** 
 
-1. **Reinforcement learning:** particurlarly, I'm interested in the exporation-exploitation dilemma, and how to solve it with (bayesian) models that capture uncertainty. I'm devoting a lot of time to the study of bandit problems, and how to use them as frameworks to fundamental problems in industry (pricing, applying treatments, deciding which data to collect, etc.).
-
-2. **Dimensionality reduction and clustering:** how can we visualize and interpret structure in our data, aiming to explain it to business stakeholders? Can we do better than simple K-Means clustering? What similarity measures, algorithms and representations would make this possible?
-
-3. **Management, and data science in a business context:** doing data science in industry is far from trivial as we need to balance time for experimentation with deadlines, data is oftentimes messy and stakeholders may not have a clear understanding of our work and challenges. How can you navigate this and deliver real value from ML, while maintaining the best people motivated?
-
-I hope I can bring useful insights about these topics and others. Feel free to [contact me](https://gdmarmerola.github.io/contact), and also add me on [LinkedIn](https://www.linkedin.com/in/gdmarmerola/)! 
+-->
