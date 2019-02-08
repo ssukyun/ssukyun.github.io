@@ -1,10 +1,10 @@
 # SITE CONFIGURATION
-title: Y0ON's Blog # your site title
-author: Suk Y00N # You :P
+title: Sukyun's Blog # your site title
+author: Sukyun Y00N # You :P
 description: > # Meta description of Homepage
   A Little Designer's Designs, Codes
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://y0on.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ssukyun.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
